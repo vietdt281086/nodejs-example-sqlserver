@@ -1,0 +1,1 @@
+SELECT [ID], [Ma] FROM [dbo].[DM_DiaDiem] WITH (NOLOCK) WHERE ID = @id
